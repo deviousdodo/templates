@@ -1,0 +1,16 @@
+# Write your commit message in the imperative: "Fix bug" and not
+# "Fixed bug" or "Fixes bug"; "Add tests for" and not "I added tests
+# for" or "Adding tests for".
+#
+# This commit will... (max 50 chars)             |
+<Subject>
+
+# More detailed explanatory text, if necessary. (wrapped at 72 chars)  |
+#
+# Why is this change necessary?
+#
+# How does it address the issue?
+#
+# What side effects does this change have?
+#
+# Provide links to any relevant tickets, articles or other resources.
